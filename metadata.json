@@ -1,0 +1,5 @@
+{
+  "name": "44a-Batch vs Stream Processing Explorer",
+  "description": "An interactive educational application visualizing the differences between Batch and Stream processing in data engineering through analogies and simulations.",
+  "requestFramePermissions": []
+}
